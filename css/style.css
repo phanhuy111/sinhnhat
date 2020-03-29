@@ -10,7 +10,7 @@ body {
 	background-repeat: no-repeat;
 	background-position: center center;
 	-webkit-transition: 3s;
-	margin: 0;
+	margin: -65px;
 	padding: 0;
 	overflow: hidden;
 	height: 100vh;
